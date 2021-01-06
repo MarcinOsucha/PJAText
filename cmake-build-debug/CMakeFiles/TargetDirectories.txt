@@ -1,0 +1,3 @@
+C:/Users/mosuc/CLionProjects/PJAText/cmake-build-debug/CMakeFiles/PJAText.dir
+C:/Users/mosuc/CLionProjects/PJAText/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mosuc/CLionProjects/PJAText/cmake-build-debug/CMakeFiles/rebuild_cache.dir
