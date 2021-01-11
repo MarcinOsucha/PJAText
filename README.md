@@ -16,7 +16,7 @@ Application used for working with files - geting number of lines, words, charact
 -i  | --input          | after this flag program excepts a path to input file
 </pre>
   
-**Ways of typing arameters**
+**Ways of typing parameters**
 <pre>
 a) -f path_to_file *flags
 b) -i path_to_file_with_flags
