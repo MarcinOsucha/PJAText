@@ -1,7 +1,7 @@
 # PJAText
 Application used for working with files - geting number of lines, words, characters, geting numbers, anagrams and palindromes. Program gets input flags from conole or file, returns output to console or file.
 
-**Flags:**
+## Flags:
 <pre>
 -f  | --file           | after this flag program excepts a path to file to check  
 -n  | --newlines       | returns number of lines  
@@ -22,7 +22,7 @@ a) -f path_to_file *flags
 b) -i path_to_file_with_flags
 </pre>
 
-**Examples**  
+## Examples 
 file.txt
 <pre>
 I have 4 cars. In my opinion it's better to have no opinion.
